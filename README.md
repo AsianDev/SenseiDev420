@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! I am | Asahi | 旭陽 👋
 
-<!--
-**KaoriBotDev/KaoriBotDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Coding a bot for my Discord Server
+- 🌱 I’m currently learning ... Discord.js
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: Dm me on discord. [Sensei | 旭陽#6427](https://discordapp.com/users/569670023300382720)
+- ⚡ About me: 
+-- I am 13 year old discord bot develepor
+-- I am in love with anime
+-- I love cooking
+-- I own a discord server [Join here](https://discord.gg/TQ3mTPE7Pf)
