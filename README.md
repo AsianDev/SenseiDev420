@@ -4,13 +4,13 @@
 <h3 align="center">About me:</h3>
 
 
-- I’m currently working on [Coding a bot for my Discord Server](https://discord.gg/TQ3mTPE7Pf)
+- I’m currently working on **[Coding a bot for my Discord Server](https://discord.gg/TQ3mTPE7Pf)**
 
-- 📫 How to reach me [Sensei | 旭陽#6427](https://discordapp.com/users/569670023300382720)
+- 📫 How to reach me **[Sensei | 旭陽#6427](https://discordapp.com/users/569670023300382720)**
 
-- 🌱 I’m currently learning [Discord.js](https://discord.js.org/)
+- 🌱 I’m currently learning **[Discord.js](https://discord.js.org/)**
 
-- 🔗 Find my Socials [https://bio.link/ikigai](https://bio.link/ikigai)
+- 🔗 Find my Socials **[Here](https://bio.link/ikigai)**
 
 
 <h3 align="left">Connect with me:</h3>
